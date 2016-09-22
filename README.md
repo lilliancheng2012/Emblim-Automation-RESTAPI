@@ -6,12 +6,17 @@
 ## Emblim Automation Test Rest API
 ### Demo
 
-To View Online Testing Report:  [http://52.62.238.228:8080/][OnlineReport]
+To View Online Testing Report:  
+
+[http://52.62.238.228:8080/][OnlineReport]
 
 
-This Demo is started by Continue Integration Tool - Jenkins  [http://52.62.238.228:9090/][Jenkins]
+This Demo is started by Continue Integration Tool - Jenkins  
+
+[http://52.62.238.228:9090/][Jenkins]
 
 *Username*: Lillian
+
 *Password*: Duck2015
 
 ### Getting Started
@@ -30,6 +35,7 @@ To see a report, run `mvn jetty:run` and open `http://localhost:8080` in your br
 
 ### Generated Report
 To View Online Testing Report: 
+
 [http://52.62.238.228:8080/][OnlineReport]
 
 ![](https://raw.githubusercontent.com/lilliancheng2012/lilliancheng2012.github.io/master/public/img/posts/22-09-16/Report%20Overview.PNG)
