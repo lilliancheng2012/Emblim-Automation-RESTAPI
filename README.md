@@ -17,7 +17,7 @@ This Demo is started by Continue Integration Tool - Jenkins
 
 *Username*: Lillian
 
-*Password*: Duck2015
+*Password*: ****
 
 ### Getting Started
 
